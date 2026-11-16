@@ -1,0 +1,10 @@
+# Video & fail besar tidak disimpan dalam git
+input/*
+output/*
+temp/*
+models/
+!input/.gitkeep
+!output/.gitkeep
+!temp/.gitkeep
+__pycache__/
+*.pass*
